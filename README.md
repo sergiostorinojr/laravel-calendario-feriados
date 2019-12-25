@@ -4,12 +4,17 @@
 
 Este projeto foi iniciado pela [StarGrid](https://stargrid.pro) para ajudar os usuários do Laravel que pretendem integrar seus sistemas com a API [http://www.calendario.com.br](http://www.calendario.com.br) para busca de feriados nacionais, estaduais e municipais.
 
+
+*Fix versão compatibilidade.
+
+
+
 ## Instalação
 
 Para instalar a dependência através do composer, através do terminal, entre na pasta de seu projeto (Laravel) e digite:
 
 ```sh
-$ composer require stargrid/laravel-calendario-feriados
+$ composer require sergiostorinojr/laravel-calendario-feriados
 ```
 
 Após a instalação do pacote, execute o próximo comando:
